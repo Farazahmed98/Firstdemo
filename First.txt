@@ -1,2 +1,4 @@
 Hello Friends
 Hello from online repository
+Hello from smartGit
+Welcome smartGit
